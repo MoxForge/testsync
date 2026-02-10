@@ -1,0 +1,134 @@
+{
+  "exported_at": "2026-02-10T16:04:50.190763+01:00",
+  "workspaces": [
+    {
+      "id": "9d3de7a0-d2f1-4465-9d2f-a0176051e123",
+      "path": "E:\\devProjects\\test",
+      "name": "E:\\devProjects\\test",
+      "default_mode": "dev",
+      "metadata": null,
+      "created_at": "2026-02-09T20:11:56.4823006+01:00",
+      "updated_at": "2026-02-09T20:11:56.4823006+01:00"
+    }
+  ],
+  "sessions": [
+    {
+      "session": {
+        "id": "97895eb4-23da-45b7-9468-089038c1f80a",
+        "workspace_id": "9d3de7a0-d2f1-4465-9d2f-a0176051e123",
+        "mode": "dev",
+        "status": "active",
+        "metadata": null,
+        "created_at": "2026-02-09T20:11:56.4855896+01:00",
+        "updated_at": "2026-02-09T20:11:56.4855896+01:00"
+      },
+      "messages": [
+        {
+          "id": "817060ce-97f6-41a3-a613-fa4acd339978",
+          "session_id": "97895eb4-23da-45b7-9468-089038c1f80a",
+          "role": "user",
+          "content": [
+            {
+              "type": "text",
+              "text": "hey"
+            }
+          ],
+          "created_at": "2026-02-09T20:11:56.9783785+01:00",
+          "metadata": null
+        },
+        {
+          "id": "39817764-a791-4dc2-8fa2-6b020de9512a",
+          "session_id": "97895eb4-23da-45b7-9468-089038c1f80a",
+          "role": "assistant",
+          "content": [
+            {
+              "type": "text",
+              "text": "[Stub] Echo: hey "
+            }
+          ],
+          "created_at": "2026-02-09T20:11:56.9794205+01:00",
+          "metadata": null
+        },
+        {
+          "id": "9f1e09d9-cf0b-4edc-ba7b-3ab306ddb48d",
+          "session_id": "97895eb4-23da-45b7-9468-089038c1f80a",
+          "role": "user",
+          "content": [
+            {
+              "type": "text",
+              "text": "hey"
+            }
+          ],
+          "created_at": "2026-02-10T09:17:14.9684903+01:00",
+          "metadata": null
+        },
+        {
+          "id": "26606d48-432a-4666-8e0f-439f3cc5b91c",
+          "session_id": "97895eb4-23da-45b7-9468-089038c1f80a",
+          "role": "assistant",
+          "content": [
+            {
+              "type": "text",
+              "text": "Hey there! 👋\n\nI'm Moximus God Mode - your AI engineering and DevOps assistant. I have full access to this workspace and can help you with:\n\n**Development:**\n- Reading, writing, and editing code\n- Running commands and scripts\n- Searching and analyzing your codebase\n\n**Infrastructure \u0026 DevOps:**\n- AWS (EC2, S3, ECS, CloudWatch)\n- Kubernetes cluster management\n- Docker builds and containers\n- Terraform and Ansible automation\n\n**Deployments:**\n- Blue/Green, Canary, and Rolling deployments\n- Secrets management\n- SSH remote operations\n\nYour current workspace (`E:\\devProjects\\test`) looks pretty empty right now - just some Moximus config files. \n\nWhat would you like to work on today? I can help you:\n- Start a new project\n- Set up infrastructure\n- Deploy an application\n- Or anything else you need!"
+            }
+          ],
+          "created_at": "2026-02-10T09:17:21.3554704+01:00",
+          "metadata": null
+        },
+        {
+          "id": "0ff166f9-c54b-496a-8cb8-681fb7804a9f",
+          "session_id": "97895eb4-23da-45b7-9468-089038c1f80a",
+          "role": "user",
+          "content": [
+            {
+              "type": "text",
+              "text": "hello"
+            }
+          ],
+          "created_at": "2026-02-10T09:34:36.9459054+01:00",
+          "metadata": null
+        },
+        {
+          "id": "437c77d8-2fb7-42cb-85b1-737f0c405ff3",
+          "session_id": "97895eb4-23da-45b7-9468-089038c1f80a",
+          "role": "assistant",
+          "content": [
+            {
+              "type": "text",
+              "text": "Hello! 👋\n\nGood to see you again! How can I help you today?\n\nWhether it's coding, infrastructure, deployments, or anything else - just let me know what you'd like to work on and I'll get right to it!"
+            }
+          ],
+          "created_at": "2026-02-10T09:34:40.559412+01:00",
+          "metadata": null
+        },
+        {
+          "id": "c71f157f-fbd2-44b2-8402-c3c45a30b60d",
+          "session_id": "97895eb4-23da-45b7-9468-089038c1f80a",
+          "role": "user",
+          "content": [
+            {
+              "type": "text",
+              "text": "what is my shell?"
+            }
+          ],
+          "created_at": "2026-02-10T16:01:54.9676346+01:00",
+          "metadata": null
+        },
+        {
+          "id": "64e01532-e817-40ea-b017-24599f68119e",
+          "session_id": "97895eb4-23da-45b7-9468-089038c1f80a",
+          "role": "assistant",
+          "content": [
+            {
+              "type": "text",
+              "text": "Your shell is **PowerShell** on **Windows**.\n\nI can see this from the environment info:\n- **Shell:** powershell\n- **OS:** windows\n- **Working Directory:** `E:\\devProjects\\test`\n\nIs there something specific you'd like me to run or help you with?"
+            }
+          ],
+          "created_at": "2026-02-10T16:01:58.2963496+01:00",
+          "metadata": null
+        }
+      ]
+    }
+  ],
+  "summaries": null
+}
